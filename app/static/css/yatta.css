@@ -1,0 +1,6 @@
+/* CSS declarations go here */
+
+#clock {
+  user-select: none;
+  -webkit-user-select: none;
+}
